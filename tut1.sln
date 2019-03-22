@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8. Вказівники", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9. Bit, define,typedef", "9. Bit, define,typedef\9. Bit, define,typedef.vcxproj", "{06186B7E-0DE3-4DA9-AD56-C5DBF747C9EF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10. Функції", "Функції\Функції.vcxproj", "{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{06186B7E-0DE3-4DA9-AD56-C5DBF747C9EF}.Release|x64.Build.0 = Release|x64
 		{06186B7E-0DE3-4DA9-AD56-C5DBF747C9EF}.Release|x86.ActiveCfg = Release|Win32
 		{06186B7E-0DE3-4DA9-AD56-C5DBF747C9EF}.Release|x86.Build.0 = Release|Win32
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Debug|x64.ActiveCfg = Debug|x64
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Debug|x64.Build.0 = Debug|x64
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Debug|x86.ActiveCfg = Debug|Win32
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Debug|x86.Build.0 = Debug|Win32
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Release|x64.ActiveCfg = Release|x64
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Release|x64.Build.0 = Release|x64
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Release|x86.ActiveCfg = Release|Win32
+		{F098B24C-FEEC-4954-BE64-0B9B81CD2E09}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
