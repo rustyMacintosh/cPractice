@@ -12,7 +12,7 @@
 ////int sum(int, int); // прототип функції sum. Вона автоматом підтягнеться, хоча йде після main
 //
 //int n, m;
-//bool input() {
+//bool input() { 
 //	cout << "Enter two numbers for counting combination of N by M:\n";
 //	if (!(cin >> n >> m))
 //		return false;
