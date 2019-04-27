@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{2AECBC90-1464-4D25-8232-B29163BC6975}</ProjectGuid>
-    <RootNamespace>My14Список</RootNamespace>
+    <ProjectGuid>{F7E09718-68BA-466D-A5BE-A9903555E76B}</ProjectGuid>
+    <RootNamespace>My15Файловийввідвивід</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,8 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="homework14.cpp" />
-    <ClCompile Include="main14.cpp" />
+    <ClCompile Include="main15.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
