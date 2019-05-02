@@ -27,7 +27,6 @@ int main() {
 	}
 	double* p = d; 
 
-
 	_getch();
 	return 0;
 }
