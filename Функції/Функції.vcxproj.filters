@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main8.cpp">
+    <ClCompile Include="homework10.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="..\7.String  і двомірні масиви\Matrix multyplier.cpp">
-      <Filter>Файлы ресурсов</Filter>
+    <ClCompile Include="main10.cpp">
+      <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

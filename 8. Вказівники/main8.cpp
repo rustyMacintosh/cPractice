@@ -20,12 +20,56 @@ int main() {
 	//cout << "*p = " << *p << endl; // розмінування вказівника, тобто витягнення значення змінної до якої він прив'язаний
 
 
-	double d[10];
-	for (int i = 0; i < 10; i++)
-	{
-		d[i] = (double) i;
-	}
-	double* p = d; 
+	//double d[10];
+	//for (int i = 0; i < 10; i++)
+	//{
+	//	d[i] = (double) i+1;
+	//}
+	//double* p = d; 
+
+	//cout << d << endl;
+	//cout << *p << endl;
+	
+	//&d[4] = p+4; d[4] = *(p+4);
+
+	//int N;
+	//cout << "Enter size of array:";
+	//cin >> N;
+
+	//int* p = new int[N];
+	//
+	//for (int i = 0; i < N; i++) {
+	//	*(p + i) = i + 1;
+	//	cout << "p[" << i << "] = " << p[i] << endl;
+	//}
+
+	//delete [] p;
+
+	/////////////////////////////////////////////////////Знаходження простих чисел!!!!!!
+	//cout << "\t\t***Simple numbers***\n\n";
+
+	//int N;
+	//cout << "Enter number for finding simple numbers:";
+	//cin >> N;
+
+	//bool* SimpleNumber = new bool[N + 1];//0...15
+
+	//for (int i = 2; i < N + 1; i++)
+	//	SimpleNumber[i] = true;
+
+	//for (int i = 2; i <= N; i++)
+	//{
+	//	if (SimpleNumber[i])
+	//	{
+	//		for (int j = i * i; j <= N; j += i)
+	//			SimpleNumber[j] = false;
+	//	}
+	//}
+	//for (int i = 2; i < N + 1; i++)
+	//	if (SimpleNumber[i])
+	//		cout << i << endl;
+
+	//delete [] SimpleNumber;
 
 	_getch();
 	return 0;

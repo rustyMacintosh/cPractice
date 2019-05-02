@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D1875625-EE2C-4BA0-8BE9-87585271AEA8}</ProjectGuid>
-    <RootNamespace>My8Вказівники</RootNamespace>
+    <ProjectGuid>{2AECBC90-1464-4D25-8232-B29163BC6975}</ProjectGuid>
+    <RootNamespace>My14Список</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,8 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\7.String  і двомірні масиви\Matrix multyplier.cpp" />
-    <ClCompile Include="main8.cpp" />
+    <ClCompile Include="homework14.cpp" />
+    <ClCompile Include="main14.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
